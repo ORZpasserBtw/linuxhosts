@@ -1,3 +1,5 @@
 192.168.21.104 Rocky-1.MyGO.local
 192.168.21.105 Rocky-2.MyGO.local
-192.168.21.254 gateway44444
+192.168.21.254 gateway
+
+192.168.21.1 WS-1
